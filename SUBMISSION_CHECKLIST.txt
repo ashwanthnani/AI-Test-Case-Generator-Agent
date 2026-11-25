@@ -1,0 +1,12 @@
+[ ] Install Python and Ollama
+[ ] Download llama3.2:3b
+[ ] Install requirements
+[ ] Run Streamlit app
+[ ] Test registration and login requirements
+[ ] Test empty and unclear input
+[ ] Review positive, negative and edge cases
+[ ] Test edit/delete
+[ ] Test save/history after restarting app
+[ ] Download and open CSV
+[ ] Upload project to GitHub
+Do not mark tests passed until you actually run them.
